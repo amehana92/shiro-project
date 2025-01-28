@@ -1,12 +1,12 @@
 @font-face {
     font-family: OperatorMonoSSmLig Font !important;
-    src: url(https://cdn.jsdmirror.com/gh/amehana92/shiro-project/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Italic.woff2) format("woff2"),url(https://cdn.jsdmirror.com/gh/amehana92/shiro-project/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Italic.woff) format("woff") !important;
+    src: url(https://cdn.jsdmirror.com/gh/amehana92/shiro-project@0.1.1/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Italic.woff2) format("woff2"),url(https://cdn.jsdmirror.com/gh/amehana92/shiro-project@0.1.1/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Italic.woff) format("woff") !important;
     font-weight: 400 !important;
     font-style: italic !important
 }
 @font-face {
         font-family: 'OperatorMonoSSmLig Font';
-        src: url(https://cdn.jsdmirror.com/gh/amehana92/shiro-project/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Italic.woff2) format("woff2"),url(https://cdn.jsdmirror.com/gh/amehana92/shiro-project/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Italic.woff) format("woff") !important;
+        src: url(https://cdn.jsdmirror.com/gh/amehana92/shiro-project@0.1.1/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Italic.woff2) format("woff2"),url(https://cdn.jsdmirror.com/gh/amehana92/shiro-project@0.1.1/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Italic.woff) format("woff") !important;
         font-weight: 400;
         font-style: italic;
 }
@@ -25,14 +25,14 @@ code,kbd,pre,samp {
 
 @font-face {
     font-family: Operator Mono !important;
-    src: url(https://cdn.jsdmirror.com/gh/amehana92/shiro-project/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Italic.woff2) format("woff2"),url(https://cdn.jsdmirror.com/gh/amehana92/shiro-project/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Italic.woff) format("woff") !important;
+    src: url(https://cdn.jsdmirror.com/gh/amehana92/shiro-project@0.1.1/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Italic.woff2) format("woff2"),url(https://cdn.jsdmirror.com/gh/amehana92/shiro-project@0.1.1/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Italic.woff) format("woff") !important;
     font-weight: 400;
     font-style: italic
 }
 
 @font-face {
     font-family: Operator Mono !important;
-    src: url(https://cdn.jsdmirror.com/gh/amehana92/shiro-project/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Book.woff2) format("woff2"),url(https://cdn.jsdmirror.com/gh/amehana92/shiro-project/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Book.woff) format("woff") !important;
+    src: url(https://cdn.jsdmirror.com/gh/amehana92/shiro-project@0.1.1/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Book.woff2) format("woff2"),url(https://cdn.jsdmirror.com/gh/amehana92/shiro-project@0.1.1/webfont/OperatorMonoSSmLigNerdFontAAEOPSLMDI-Book.woff) format("woff") !important;
     font-weight: 400;
     font-style: normal
 }
