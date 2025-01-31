@@ -5,3 +5,5 @@
 博客主题为：[Shiro](https://github.com/Innei/Shiro) 的闭源版本。
 
 采用Docker部署，方法参考：[此文](https://blog.sotkg.com/2024/10/shiroi-docker-deployment.html)
+
+前往：[使用文档](https://mx-space.js.org/docs/themes/shiro/deploy)
